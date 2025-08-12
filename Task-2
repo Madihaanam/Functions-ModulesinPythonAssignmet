@@ -1,0 +1,8 @@
+x=int(input("Enter the number:"))
+import math
+sr=math.sqrt(x)
+print("The Square root of",x,"is:",sr)
+l=math.log(x)
+print("The logarithm of",x,"is:",l)
+s=math.sin(x)
+print("The sine of",x,"is:",s)
