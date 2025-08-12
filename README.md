@@ -2,16 +2,16 @@
 The repository contains python tasks created for Assignment.
 ## Task 1 : Calculate Factorial Using a Function 
 The input takes one number
--Returns the calculated **factorial**.
+- Returns the calculated **factorial**.
 - and prints the output.
 ### Example Ouput
 Enter the number:5
 factorial of 5 is: 120
 ## Task 2: Using the Math Module for Calculations
 The input takes one number and returns the calculated
--**Square root** of the number
--**Natural Logarithm** of the number
--**Sine** of the number 
+- **Square root** of the number
+- **Natural Logarithm** of the number
+- **Sine** of the number 
 ### Example Ouput
 Enter the number:25
 The Square root of 25 is: 5.0
