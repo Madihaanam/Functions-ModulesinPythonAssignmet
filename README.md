@@ -5,7 +5,7 @@ The input takes one number
 - Returns the calculated **factorial**.
 - and prints the output.
 ### Example Ouput
-Enter the number:5
+Enter the number:5<br>
 factorial of 5 is: 120
 ## Task 2: Using the Math Module for Calculations
 The input takes one number and returns the calculated
