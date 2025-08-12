@@ -13,9 +13,9 @@ The input takes one number and returns the calculated
 - **Natural Logarithm** of the number
 - **Sine** of the number 
 ### Example Ouput
-Enter the number:25
-The Square root of 25 is: 5.0
-The logarithm of 25 is: 3.2188758248682006
+Enter the number:25<br>
+The Square root of 25 is: 5.0<br>
+The logarithm of 25 is: 3.2188758248682006<br>
 The sine of 25 is: -0.13235175009777303
 ## How to Run These Scripts
 1. Download the .py files or clone the repository.
