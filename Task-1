@@ -1,0 +1,8 @@
+x=int(input("Enter the number:"))
+def fact(x):
+    if(x<2):
+        return 1
+    else:
+        return x*(fact(x-1))
+result= fact(x)
+print("factorial of",x,"is:",result)
