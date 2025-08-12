@@ -7,7 +7,6 @@ The input takes one number
 ### Example Ouput
 Enter the number:5
 factorial of 5 is: 120
-Division: 0.5
 ## Task 2: Using the Math Module for Calculations
 The input takes one number and returns the calculated
 -**Square root** of the number
